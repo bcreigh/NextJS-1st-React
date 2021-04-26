@@ -8,7 +8,7 @@ function App() {
       <Todo text="Master React" />
       <Todo text="Something React" />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

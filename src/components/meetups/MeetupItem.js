@@ -2,6 +2,7 @@ import Card from "../ui/Card";
 import classes from "./MeetupItem.module.css";
 
 function MeetupItem(props) {
+
   return (
     <Card>
       <li className={classes.item}>
